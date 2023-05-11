@@ -1,6 +1,6 @@
 # KAFKA
 
-Resumen de comandos: ![Resumen.sh](./resumen.sh)
+Resumen de comandos: [Resumen.sh](./resumen.sh)
 
 ## TOPICOS
 

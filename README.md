@@ -1,5 +1,7 @@
 # KAFKA
 
+Resumen de comandos: ![Resumen.sh](./resumen.sh)
+
 ## TOPICOS
 
 <details>

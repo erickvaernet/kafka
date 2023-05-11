@@ -1,5 +1,13 @@
 # KAFKA
 
+### Alias a tener en cuenta:
+```
+alias zookeeper-start='/home/erick/kafka_2.13-3.0.0/bin/zookeeper-server-start.sh /home/erick/kafka_2.13-3.0.0/config/zookeeper.properties'
+alias kafka-start='/home/erick/kafka_2.13-3.0.0/bin/kafka-server-start.sh /home/erick/kafka_2.13-3.0.0/config/server.properties'
+alias k-topic='kafka-topics.sh  --bootstrap-server localhost:9092'
+alias k-producer='kafka-console-producer.sh --bootstrap-server localhost:9092'
+alias k-consumer='kafka-console-consumer.sh --bootstrap-server localhost:9092'
+```
 Resumen de comandos: [Resumen.sh](./resumen.sh)
 
 ## TOPICOS
